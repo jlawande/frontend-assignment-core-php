@@ -14,7 +14,7 @@ This assignment is implemented in **two versions**:
 Both versions implement the **same features and UI**, following the assignment requirements.
 
 
-## ✅ Features
+## Features
 - User Directory (JSON API based placeholder data)
 - Search functionality
 - Pagination
@@ -29,3 +29,13 @@ Both versions implement the **same features and UI**, following the assignment r
 - This **GitHub repository contains the Core PHP implementation** of the assignment.
 - The **CodeIgniter 3 project could not be pushed to GitHub due to local setup and configuration constraints**.
 - However, the **CodeIgniter 3 version is fully functional and deployed live** using the same logic and features.
+
+  ## Core_PHP link work on local browser
+  http://localhost/core-php/index.php
+  -I tried to open on browser form github link through but gihthub pages only support
+  HTML
+
+✅ CSS
+
+✅ JS 
+not PHP file
