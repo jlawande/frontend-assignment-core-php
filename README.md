@@ -31,6 +31,15 @@ Both versions implement the **same features and UI**, following the assignment r
 - However, the **CodeIgniter 3 version is fully functional and deployed live** using the same logic and features.
 
   ## Core_PHP link work on local browser
+  htdocs/
+└── core-php/
+    ├── assets/
+    │   ├── css/
+    │   │   └── style.css
+    │   └── js/
+    │       └── script.js
+    └── index.php
+
   http://localhost/core-php/index.php
   -I tried to open on browser form github link through but gihthub pages only support
   HTML
